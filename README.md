@@ -12,3 +12,4 @@ Once on this page, check “Developer mode” to enable loading unpacked extensi
 
 To test out the extension, navigate to a page you want to test with. Then, go ahead and click the icon for our extension. When the HTML page comes up, click “Check this page now!” and you should immediately see the request and results from the current page being displayed.
 
+This fork only has a tiny tweak to the originial: The column that is calculated is called simply "h" instead of "Estimate (d)".
